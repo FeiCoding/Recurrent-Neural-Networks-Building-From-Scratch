@@ -121,4 +121,3 @@ def rnn_backward(X, Y, parameters, cache):
     ### END CODE HERE ###
     
     return gradients, a
-
